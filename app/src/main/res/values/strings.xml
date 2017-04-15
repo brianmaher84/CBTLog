@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CBT Log</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_list">Log Viewer</string>
+    <string name="title_activity_create_or_edit">CreateOrEditActivity</string>
+
+    <string name="edit">edit</string>
+    <string name="delete">delete</string>
+    <string name="save">save</string>
+    <string name="situation">Situation</string>
+    <string name="feelings">Feelings</string>
+    <string name="thoughts">Thoughts</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="deleteActivityConfirmationMessage">Confirm Delete Activity?</string>
+
+</resources>
